@@ -314,7 +314,6 @@ See [AGPLv3 LICENSE](LICENSE) for more info.
 ## 🐧 Socials
 - **LinkedIn** : https://www.linkedin.com/in/sahilkar99/
 - **Email**    : sahilkargutkar.sk@gmail.com
-- **Discord**  : godsscion
 
 
 ## 🙌 Community Support and Discussions
